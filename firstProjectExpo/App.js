@@ -15,7 +15,7 @@ export default function App() {
                         <Image source={icon} style={styles.image}/>
 
                     </View>
-
+//2
 
                 </View>
             </View>
